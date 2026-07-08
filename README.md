@@ -1,10 +1,6 @@
 # Intelligent-Assignment-Generator-LLM
 
-# EduPortal — LLM-Powered Assignment Generator & Evaluation System
-
-> **M.Tech CSE · Large Language Models Course Mini-Project**
-
-A full-stack academic web portal that uses transformer-based LLMs to generate assignments, evaluate student answers using hybrid AI, and support faculty-guided grading workflows.
+A full-stack web portal that uses transformer-based LLMs to generate assignments, evaluate student answers using hybrid AI, and support faculty-guided grading workflows.
 
 ---
 
